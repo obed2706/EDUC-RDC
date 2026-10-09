@@ -1,0 +1,5 @@
+# ads.txt — À CONFIGURER APRÈS L'APPROBATION ADSENSE (voir README.md, partie H).
+# Ne remplissez ce fichier qu'avec la ligne officielle fournie par votre compte AdSense.
+# Elle a la forme :  google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# où pub-XXXXXXXXXXXXXXXX est VOTRE identifiant éditeur réel. N'utilisez jamais celui d'une autre personne.
+# Les lignes qui commencent par # sont des commentaires et sont ignorées.
